@@ -35,3 +35,27 @@
     {caseno: 119021319663238 , name: Comerica bank, action:hot tam needs engagement asap}
     {caseno:119061821003150, name:FIREEYE,, action: followup on 7/21/19 asap}
 ]
+[
+    resourcegroups
+    {
+        "properties":{
+            "statuscode" : "nocontent",
+            "servicerequestid" : "elfa 98 0HG h0g8h09gh"
+        },
+        "resourcegroupname":"api-default",
+        "resourceid":"/subs/c63a/api-default/west-us/providers/microsoft",
+        "resourceprovidername":{
+            "localizedvalue" : "microsoft.apimanagmeent",
+            "value" : "microsoft.apimanagemnet"
+        },
+        "resourcetype":{
+            "localizedvalue":"microsoft.apimanagement/service/prodcuts",
+            "value":"microsoft.apimanagement/service/prodcuts"
+        },
+        "status" : {
+            "localstatus":"httprunning",
+            "value":"200"
+        }
+
+    }
+]
