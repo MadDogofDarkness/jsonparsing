@@ -1,0 +1,48 @@
+input the filename to read: ---------------JSON-----------------
+---------------cases-----------------
+caseno   : 119073023001985 
+status   : ongoing 
+time   : 11 
+caseno   : 119073021001508 
+status   : closed 
+time   : 10 
+caseno   : 119072521000876 
+status   : troubleshooting 
+time   : 11 
+caseno   : 119073023002499 
+status   : inprogress 
+time   : 12 
+caseno   : 119072624003517 
+RAVE   : 15572006 
+status   : new 
+time   : 11 
+---------------watchlist-----------------
+caseno   : 119072525000163 
+name   : UAEUniversity 
+action   : followupon7/30/19 
+   :  
+caseno   : 119021319663211 
+name   : ComericaBank 
+action   : sqlfollowup 
+caseno   : 119021319663238 
+name   : Comericabank 
+action   : hottamneedsengagementasap 
+caseno   : 119061821003150 
+name   : FIREEYE 
+   :  
+action   : followupon7/21/19asap 
+---------------resourcegroups-----------------
+"properties""statuscode"   : "nocontent" 
+"servicerequestid"   : "elfa980HGh0g8h09gh" 
+   :  
+"resourcegroupname"   : "api-default" 
+"resourceid"   : "/subs/c63a/api-default/west-us/providers/microsoft" 
+"resourceprovidername""localizedvalue"   : "microsoft.apimanagmeent" 
+"value"   : "microsoft.apimanagemnet" 
+   :  
+"resourcetype""localizedvalue"   : "microsoft.apimanagement/service/prodcuts" 
+"value"   : "microsoft.apimanagement/service/prodcuts" 
+   :  
+"status""localstatus"   : "httprunning" 
+"value"   : "200" 
+   :  
